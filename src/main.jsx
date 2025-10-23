@@ -9,7 +9,7 @@ import ProductContext from './context/ProductContext.jsx'
 createRoot(document.getElementById('root')).render(
    <ProductContext>
       <CartContext>
-   <BrowserRouter>
+   <BrowserRouter basename="/shopeasy">
    
    <App />
    </BrowserRouter>
