@@ -28,7 +28,7 @@
 
 ## 📸 Screenshots
   ![Homepage](./screenshots/Home.png)
-![Product Page](./screenshots/Product.png)
+![Product Page](./screenshots/product.png)
 
 
 ## 🌐 Live Demo
